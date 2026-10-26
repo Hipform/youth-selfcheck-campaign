@@ -25,10 +25,8 @@ npx --yes serve .
 
 ## 공개 URL
 
-배포 후 아래에 주소를 적어 두세요.
-
-- **공개 URL:** _(배포 후 기입)_
-- GitHub Pages 또는 Cloudflare Pages / Netlify Drop 등 정적 호스팅 사용
+- **공개 URL:** https://hipform.github.io/youth-selfcheck-campaign/
+- 배포: GitHub Pages (`Hipform/youth-selfcheck-campaign`, `main` 브랜치 루트)
 
 ## 면책
 
